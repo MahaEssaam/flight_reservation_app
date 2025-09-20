@@ -1,0 +1,20 @@
+# Python cache / build files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# SQLite and DB journals
+*.db
+*.db-journal
+
+# PyInstaller
+dist/
+build/
+*.spec
+
+# VS Code settings
+.vscode/
+
+# macOS
+.DS_Store
