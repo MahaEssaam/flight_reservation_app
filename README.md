@@ -29,5 +29,3 @@ How to Run
    python main.py
 
 The application window will open, and you can start managing reservations.
-   ```bash
-   python main.py
